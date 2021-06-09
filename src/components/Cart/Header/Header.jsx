@@ -16,30 +16,30 @@ const Header = () => {
                         src={plan1} width="100%" loading="lazy" />
                     <h2 class="pt-2 m-0 leading-4 font-semibold">Indoor excercise 2021 USA</h2>
                     <p>$210</p>
-                    <p class="text-green-500 italic font-medium">In Stock</p>
+
                 </div>
                 <div class="">
                     <img class="border border-solid w-full hover:border-blue-500" alt="Best seller"
                         src={plan2} width="100%" loading="lazy" />
                     <h2 class="pt-2 m-0 leading-4 font-semibold">Indoor excercise 2021 USA</h2>
                     <p>$210</p>
-                    <p class="text-green-500 italic font-medium">In Stock</p>
+
+                </div>
+
+                <div class="">
+                    <img class="border  border-solid w-full hover:border-blue-500" alt="Best seller"
+                        src={plan4} width="100%" loading="lazy" />
+                    <h2 class="pt-2 m-0 leading-4 font-semibold">Outdoor excercise 2021 USA</h2>
+                    <p>$210</p>
+
                 </div>
                 <div class="">
                     <img class="border border-solid w-full hover:border-blue-500" alt="Best seller"
                         src={plan3} width="100%" loading="lazy" />
                     <h2 class="pt-2 m-0 leading-4 font-semibold">Indoor excercise 2021 USA</h2>
                     <p>$210</p>
-                    <p class="text-green-500 italic font-medium">In Stock</p>
-                </div>
-                <div class="">
-                    <img class="border  border-solid w-full hover:border-blue-500" alt="Best seller"
-                        src={plan4} width="100%" loading="lazy" />
-                    <h2 class="pt-2 m-0 leading-4 font-semibold">Outdoor excercise 2021 USA</h2>
-                    <p>$210</p>
-                    <p class="text-red-500 italic font-medium">Out of Stock</p>
-                </div>
 
+                </div>
 
             </div>
         </div>
